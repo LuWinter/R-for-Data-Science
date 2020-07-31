@@ -3,7 +3,7 @@
 .RData
 .Ruserdata
 123.R
-123.py
+.py
 2016-FS.csv
 2016年异常审计费用.csv
 baiduMapFileDrawer/NA;NA.png
@@ -21,7 +21,8 @@ flights/On_Time_On_Time_Performance_2014_6.zip
 flights/On_Time_On_Time_Performance_2014_9.zip
 flights/On_Time_On_Time_Performance_2014_1.zip
 listOfSimpsonsEpisodes.html
-data/2017-2018年 异常审计费用.csv
-episodes.Rdata
-test.jpg
-test.png
+.csv
+.jpg
+.png
+.sql
+.gitignore
