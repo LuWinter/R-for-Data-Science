@@ -2,8 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-123.R
-.py
+*.py
 2016-FS.csv
 2016年异常审计费用.csv
 baiduMapFileDrawer/NA;NA.png
@@ -26,3 +25,4 @@ listOfSimpsonsEpisodes.html
 *.png
 *.sql
 *.gitignore
+.gitignore
